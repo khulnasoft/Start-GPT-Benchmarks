@@ -1,0 +1,10 @@
+{
+    "TestPlanCreation": {
+        "difficulty": "basic",
+        "data_path": "startbenchmarks/challenges/content_gen/2_plan/data.json"
+    },
+    "TestWriteFile": {
+        "difficulty": "interface",
+        "data_path": "startbenchmarks/challenges/interface/write_file/data.json"
+    }
+}
